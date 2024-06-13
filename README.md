@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi all! 👋
+
+Hi, I'm Dika Putra, a frontend developer with over 3 years of experience. I thrive on creating dynamic and user-friendly web solutions.
+
+I'm dedicated to continuous learning and constantly seek out new challenges and opportunities to grow my skills and expertise. Let's connect and explore how we can build innovative web experiences together.
+
+You can visit my LinkedIn here:
+https://www.linkedin.com/in/dikaptrw/
+
+👉 You can find out more info and other social links on [my website](#).
 
 <!--
 **dikaptrw/dikaptrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

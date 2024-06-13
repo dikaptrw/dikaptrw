@@ -1,6 +1,6 @@
 ## Hi all! 👋
 
-Hi, I'm Dika Putra, a frontend developer with over 3 years of experience. I thrive on creating dynamic and user-friendly web solutions.
+I'm Dika Putra, a frontend developer with over 3 years of experience. I thrive on creating dynamic and user-friendly web solutions.
 
 I'm dedicated to continuous learning and constantly seek out new challenges and opportunities to grow my skills and expertise. Let's connect and explore how we can build innovative web experiences together.
 

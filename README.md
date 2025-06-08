@@ -2,7 +2,9 @@
 
 Hi, I'm Dika Putra, a frontend web developer with over 3 years of professional experience.
 
-I'm dedicated to continuous learning and constantly seek out new challenges and opportunities to grow my skills and expertise. Let's connect and explore how we can build innovative web experiences together. For business and work inquiries, please visit my [LinkedIn profile](https://www.linkedin.com/in/dikaptrw/).
+I'm dedicated to continuous learning and constantly seek out new challenges and opportunities to grow my skills and expertise. Let's connect and explore how we can build innovative web experiences together.
+
+For business and work inquiries, please visit my [LinkedIn profile](https://www.linkedin.com/in/dikaptrw/).
 
 👉 You can find out more info and other social links on [my website](https://dikaptrw.com).
 
